@@ -1,0 +1,18 @@
+   /*
+        * Leitor de dados do teclado (Entrada de dados)
+        * Variavel do tipo Scanner
+        * Nome leitor, System.in == Ler do teclado
+        * Leitor de dados do teclado (Entrada de dados)
+        *
+        * System.out.println("Hello world!"); //Função escreva / print / printf
+        * Ou escrever sout e enter
+        * Ctrl + Alt + Shift + J -- Altero o nome das variaiveis.
+        * */
+
+
+ /*
+        * Precisa criar uma classe para criar uma função dentro dela.
+        * public class Main { } Criou a classe crie a função main (início)
+        * dentro da classe public static void main(String[] arg){  <código }
+        *
+        * */
