@@ -12,6 +12,6 @@ public class Main {
 
 
         Inimigo maiorAtaque = mapa.getInimigoMaiorAtaque();
-        System.out.println(maiorAtaque);
+        System.out.println(maiorAtaque.ataque);
     }
 }
