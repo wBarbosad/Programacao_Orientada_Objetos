@@ -1,21 +1,23 @@
 public class Inimigo {
     private int ataque;
-    private int defesa;
     private int pontos;
+    private int defesa;
+    public String nome;
 
-    public Inimigo(){
+    public Inimigo(){ //Construtor vazio;
 
     }
-    public Inimigo(int ataque, int defesa, int pontos){
-
-    }
-
-    public int getAtaque(){
-        return this.ataque;
-    }
-    public int setAtaque(int ataque){
+    public Inimigo(int ataque, int pontos, int defesa, String nome){
         this.ataque = ataque;
-        return this.ataque;
+        this.pontos = pontos;
+        this.defesa = defesa;
+        this.nome = nome;
+    }
+    public int getAtaque(){
+         return this.ataque;
+    }
+    public void setAtaque(int ataque){
+        this.ataque = ataque;
     }
     public int getDefesa(){
         return this.defesa;
@@ -29,6 +31,5 @@ public class Inimigo {
     public void setPontos(int pontos){
         this.pontos = pontos;
     }
-
 
 }

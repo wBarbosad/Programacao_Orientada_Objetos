@@ -1,12 +1,18 @@
 import java.util.ArrayList;
 
 public class Mapa {
-    String nome;
-    int altura;
-    int largura;
-    ArrayList<Inimigo> inimigos = new ArrayList<>();
-    ArrayList<Heroi> herois = new ArrayList<>();
+    private String nome;
+    private int altura;
+    private int largura;
+    private ArrayList<Inimigo> inimigos = new ArrayList<>();
+    private ArrayList<Heroi> herois = new ArrayList<>();
 
+    public Mapa(){
+
+    }
+    public Mapa(String nome, int altura, int largura){
+
+    }
     public Inimigo getInimigoMaiorAtaque(){
         int maiorAtaque = 0;
         int index = 0;
