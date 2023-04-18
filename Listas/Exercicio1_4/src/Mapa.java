@@ -1,9 +1,9 @@
 import java.util.ArrayList;
 
 public class Mapa {
-    String nome;
-    int altura;
-    int largura;
+    private  String nome;
+    private int altura;
+    private int largura;
     ArrayList<Inimigo> inimigos = new ArrayList<>();
     ArrayList<Heroi> herois = new ArrayList<>();
 
@@ -22,5 +22,11 @@ public class Mapa {
             }
         }
         return inimigos.get(index);
+    }
+    public String getNome(){
+        return this.nome;
+    }
+    public void setNome(String name){
+        this.nome = name;
     }
 }
