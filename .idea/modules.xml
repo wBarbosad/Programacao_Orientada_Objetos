@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aulas/Aulas03/Aula03/Aula03.iml" filepath="$PROJECT_DIR$/Aulas/Aulas03/Aula03/Aula03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas/Aulas03/Aula03_2/Aula03_2.iml" filepath="$PROJECT_DIR$/Aulas/Aulas03/Aula03_2/Aula03_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas/Aulas03/Aula03_3/Aula03_3.iml" filepath="$PROJECT_DIR$/Aulas/Aulas03/Aula03_3/Aula03_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas/Aula04/Aula04.iml" filepath="$PROJECT_DIR$/Aulas/Aula04/Aula04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas/Aula05/Aula05.iml" filepath="$PROJECT_DIR$/Aulas/Aula05/Aula05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista6/Aula07_ex/Aula07_ex.iml" filepath="$PROJECT_DIR$/Listas/Lista6/Aula07_ex/Aula07_ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas/Ex_Aprofundamento/Ex_Aprofundamento.iml" filepath="$PROJECT_DIR$/Aulas/Ex_Aprofundamento/Ex_Aprofundamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista2/Exercicio1_2/Exercicio1_2.iml" filepath="$PROJECT_DIR$/Listas/Lista2/Exercicio1_2/Exercicio1_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista3/Exercicio1_3/Exercicio1_3.iml" filepath="$PROJECT_DIR$/Listas/Lista3/Exercicio1_3/Exercicio1_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista4/Exercicio1_4/Exercicio1_4.iml" filepath="$PROJECT_DIR$/Listas/Lista4/Exercicio1_4/Exercicio1_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista6/Exercicio1_6/Exercicio1_6.iml" filepath="$PROJECT_DIR$/Listas/Lista6/Exercicio1_6/Exercicio1_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista2/Exercicio2_2/Exercicio2_2.iml" filepath="$PROJECT_DIR$/Listas/Lista2/Exercicio2_2/Exercicio2_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista3/Exercicio2_3/Exercicio2_3.iml" filepath="$PROJECT_DIR$/Listas/Lista3/Exercicio2_3/Exercicio2_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista4/Exercicio2_4/Exercicio2_4.iml" filepath="$PROJECT_DIR$/Listas/Lista4/Exercicio2_4/Exercicio2_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista6/Exercicio2_6/Exercicio2_6.iml" filepath="$PROJECT_DIR$/Listas/Lista6/Exercicio2_6/Exercicio2_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista5/Lista5.iml" filepath="$PROJECT_DIR$/Listas/Lista5/Lista5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programacao_Orientada_Objetos.iml" filepath="$PROJECT_DIR$/.idea/Programacao_Orientada_Objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas/Aulas02/ex01/ex01.iml" filepath="$PROJECT_DIR$/Aulas/Aulas02/ex01/ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas/Aulas02/ex02/ex02.iml" filepath="$PROJECT_DIR$/Aulas/Aulas02/ex02/ex02.iml" />
+    </modules>
+  </component>
+</project>
